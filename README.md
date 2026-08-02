@@ -1,30 +1,27 @@
-# K-A05
+## Hi there 👋
 
+I'm Karan, a new Graduate of Computer Science and a software developer based in London 🇬🇧.
 
-## Previous projects
-### **Browser based Game application:**
-Made with a combination of HTML, CSS and Javascript libraries like [[https://p5js.org/]]{p5.js}, it uses clever tricks to animate the character in various orientations and runs ubiquitously on any browser.
+I like getting low-level and embracing technical complexity in my projects.
 
-https://github.com/user-attachments/assets/82d7daaa-fc14-4ecd-b879-7303e2225214
+### Tech Stack 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### **Browser Based drawing application**
-Using many of the same libraires used in the browser based game, I made a clone inspired by [[Micro Soft Paint]][https://en.wikipedia.org/wiki/Microsoft_Paint], that has implemented varioud different tools such as a bucket tool, an eraser with a variable radius, functionality to pick any color, a symmetry functionality to mirror the left and right side of the canvas, a spray tool with variable radius and density.
+I have a selection of pinned project below, but the most polished example is the [Video Analysis Pipeline](https://github.com/K-A05/Video-Analysis-pipeline).
 
-https://github.com/user-attachments/assets/25b468ef-7c07-41ef-9a5a-ed41e423204f
+### Current projects & learning
+- Currently working on the [AI Engineer pathway](https://www.codecademy.com/learn/paths/ai-engineer) with Codecademy.
+- Also undertaking the [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/) with Hack the Box, for fun ;).
 
-### XOR cipher
-Implemented a XOR cipher in C, which scans the current directory for a clear.txt file and uses the /dev/urandom directory to generate a key with which it encrypts the clear.txt file, outputing a key.txt file and a cipher.txt file. The programme can then be run with the '-d' flag to run it in decryption mode which will output a "decrypted.txt" file that will have the same contents as the "clear.txt" file.
+#### Fun Facts
+- I love animals, especially dogs.
+- I Hate raw tomatoes on my food.
+- **Hobbies**: Gym, tinkering and taking apart old electronics, 3D printing cool things.
 
-https://github.com/user-attachments/assets/8e6a2431-126e-44d3-84ca-8a9ac0f0279e
-
-### Current work 
-#### Plant Identification AI: 
-An upcoming project that will make use of a **Convolutional Neural Network** trained on a data set of plant images to allow users to identify plants in the environment by scanning them with their camera or uploading a photo.
-
-#### HTTP Proxy in Rust:
-A custom written proxy in Rust that is able to intercept traffic to and from a client device and annonymise their IP address on the internet to enhance the security posture and privacy of the user.
-
-### Additional Qualification
-#### Google IT Support: 
-
-[Google IT Support.pdf](https://github.com/user-attachments/files/19150252/Google.IT.Support.pdf)
