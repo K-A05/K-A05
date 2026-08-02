@@ -18,7 +18,7 @@ I have a selection of pinned project below, but the most polished example is the
 
 ### Current projects & learning
 - Currently working on the [AI Engineer pathway](https://www.codecademy.com/learn/paths/ai-engineer) with Codecademy.
-- Also undertaking the [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/) with Hack the Box, for fun ;).
+- Also undertaking the [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/) with Hack the Box, for fun ;)
 
 #### Fun Facts
 - I love animals, especially dogs.
